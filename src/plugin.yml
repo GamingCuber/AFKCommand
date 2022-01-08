@@ -1,0 +1,8 @@
+name: AFKCommand
+main: me.GamingCuber.AFKCommand.Main
+author: GamingCuber
+version: 1.3
+
+commands: 
+  afkstart: 
+  afkstop: 
